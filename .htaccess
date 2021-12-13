@@ -1,0 +1,4 @@
+AuthType Basic
+Authname "Zutritt nur für befugte"
+AuthUserFile /home/webpages/lima-city/yeetmaster/default-website/.htpasswd
+Require valid-user
