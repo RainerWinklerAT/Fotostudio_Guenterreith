@@ -1,3 +1,11 @@
 #Logo{
     object-position: 10px;
 }
+
+#fototabellenfarbegrau{
+    background-color: lightgray;
+}
+
+#fototabellenfarbeweis{
+    background-color: whitesmoke;
+}
